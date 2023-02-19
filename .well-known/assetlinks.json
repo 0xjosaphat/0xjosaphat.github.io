@@ -1,9 +1,11 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.betriebsratwissen",
-    "sha256_cert_fingerprints":
-    ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.betriebsratwissen",
+      "sha256_cert_fingerprints":
+      ["75:4D:F8:9D:67:02:98:77:D1:2B:45:A1:60:D8:63:7F:85:96:BD:7C:38:AD:3C:C6:EB:B4:EF:74:71:89:00:EB"]
+    }
   }
-}]
+]
